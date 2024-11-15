@@ -14,10 +14,10 @@ const Card = () => {
         <h2 className='text-Slate900 text-[22px] font-bold py-4 px-3'>
           Improve your front-end skills by building projects
         </h2>
-        <h5 className='text-Slate500 text-[15px] px-4 pb-4'>
+        <h3 className='text-Slate500 text-[15px] px-4 pb-4'>
           Scan the QR code to visit Frontend Mentor and take your coding skills
           to the next level
-        </h5>
+        </h3>
       </div>
     </div>
   );
